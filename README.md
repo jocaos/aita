@@ -9,11 +9,11 @@ Inteligencia Artificial
 
 #### Autores
 
-| Nombre                 | Código     |
-| ---------------------- | ---------- |
-| Arauco Polo, Ronie     | *20140880* |
-| Carhuas Ospina, Josias | *20122631* |
-| Romero, Bruno          | *20141272* |
+| Nombre                          | Código     |
+| ------------------------------- | ---------- |
+| Arauco Alarcón, Ronie Paolo     | *20140880* |
+| Carhuas Ospina, Josias          | *20122631* |
+| Romero Trigueros, Bruno         | *20141272* |
 
 #### Resumen
 
